@@ -5,4 +5,4 @@ St2 >>>
 oee model diagram
 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://docs.github.com/assets/cb-170327/images/help/repository/profile-with-readme.png)
