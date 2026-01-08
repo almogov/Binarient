@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="tBIZPz-3x9ALTNqz6Tbx-1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="fin.fact_gl" vertex="1">
-          <mxGeometry height="120" width="240" x="310" y="250" as="geometry" />
+          <mxGeometry height="120" width="240" x="305" y="360" as="geometry" />
         </mxCell>
         <mxCell id="tBIZPz-3x9ALTNqz6Tbx-2" parent="tBIZPz-3x9ALTNqz6Tbx-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Item 1" vertex="1">
           <mxGeometry height="30" width="240" y="30" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry height="30" width="140" y="90" as="geometry" />
         </mxCell>
         <mxCell id="tBIZPz-3x9ALTNqz6Tbx-17" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="fin.dim_account_category" vertex="1">
-          <mxGeometry height="120" width="140" x="600" y="330" as="geometry" />
+          <mxGeometry height="120" width="140" x="610" y="460" as="geometry" />
         </mxCell>
         <mxCell id="tBIZPz-3x9ALTNqz6Tbx-18" parent="tBIZPz-3x9ALTNqz6Tbx-17" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Item 1" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
